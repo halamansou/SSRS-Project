@@ -53,6 +53,7 @@
     <DataSet Include="DataSet1.rsd" />
     <DataSet Include="DataSet2.rsd" />
     <DataSet Include="DataSet3.rsd" />
+    <DataSet Include="DataSet4.rsd" />
   </ItemGroup>
   <ItemGroup>
     <DataSource Include="DataSource1.rds" />
@@ -63,6 +64,7 @@
     <Report Include="display topic name and courses data for each topic_Report.rdl" />
     <Report Include="report as a chart_Report.rdl" />
     <Report Include="show students data Report.rdl" />
+    <Report Include="student data using Stored Procedure that takes 2 parameters_Report.rdl" />
     <Report Include="student grades with student name and Course name as indicator_Report.rdl" />
     <Report Include="sum of quantity per productID and SalesManName_Report.rdl" />
   </ItemGroup>
