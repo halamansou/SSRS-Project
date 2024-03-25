@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\Report Project1\\SSRS-Project\\",
+  "WorkspaceRootPath": "E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\SSRS-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D27A79B7-98E4-49BE-8FC5-D9B412EA78A2}|Report Project1\\Report Project1.rptproj|E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\Report Project1\\SSRS-Project\\Report Project1\\show students data Report.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "AbsoluteMoniker": "D:0:0:{D27A79B7-98E4-49BE-8FC5-D9B412EA78A2}|Report Project1\\Report Project1.rptproj|E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\SSRS-Project\\Report Project1\\display topic name and courses data for each topic_Report.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{D27A79B7-98E4-49BE-8FC5-D9B412EA78A2}|Report Project1\\Report Project1.rptproj|solutionrelative:Report Project1\\display topic name and courses data for each topic_Report.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27A79B7-98E4-49BE-8FC5-D9B412EA78A2}|Report Project1\\Report Project1.rptproj|E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\SSRS-Project\\Report Project1\\show students data Report.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
       "RelativeMoniker": "D:0:0:{D27A79B7-98E4-49BE-8FC5-D9B412EA78A2}|Report Project1\\Report Project1.rptproj|solutionrelative:Report Project1\\show students data Report.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
     }
   ],
@@ -19,10 +23,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "display topic name and courses data for each topic_Report.rdl [Design]",
+              "DocumentMoniker": "E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\SSRS-Project\\Report Project1\\display topic name and courses data for each topic_Report.rdl",
+              "RelativeDocumentMoniker": "Report Project1\\display topic name and courses data for each topic_Report.rdl",
+              "ToolTip": "E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\SSRS-Project\\Report Project1\\display topic name and courses data for each topic_Report.rdl [Design]",
+              "RelativeToolTip": "Report Project1\\display topic name and courses data for each topic_Report.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-25T14:54:49.141Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "show students data Report.rdl [Design]",
-              "DocumentMoniker": "E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\Report Project1\\SSRS-Project\\Report Project1\\show students data Report.rdl",
+              "DocumentMoniker": "E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\SSRS-Project\\Report Project1\\show students data Report.rdl",
               "RelativeDocumentMoniker": "Report Project1\\show students data Report.rdl",
-              "ToolTip": "E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\Report Project1\\SSRS-Project\\Report Project1\\show students data Report.rdl [Design]",
+              "ToolTip": "E:\\ITI 9M  44\\27-BI\\Day 3\\lab\\SSRS-Project\\Report Project1\\show students data Report.rdl [Design]",
               "RelativeToolTip": "Report Project1\\show students data Report.rdl [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-03-25T13:20:00.404Z",

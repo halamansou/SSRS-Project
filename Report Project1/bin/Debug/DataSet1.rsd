@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="DataSet1">
+    <Query>
+      <DataSourceReference>DataSource2</DataSourceReference>
+      <CommandText>SELECT 
+    T.Top_Id,
+    T.Top_Name,
+    C.Crs_Id,
+    C.Crs_Name,
+    C.Crs_Duration
+FROM 
+    Topic T
+JOIN 
+    Course C ON T.Top_Id = C.Top_Id
+ORDER BY 
+    T.Top_Id;
+</CommandText>
+    </Query>
+  </DataSet>
+</SharedDataSet>
