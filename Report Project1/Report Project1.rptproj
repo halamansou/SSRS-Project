@@ -60,6 +60,7 @@
   <ItemGroup>
     <Report Include="display topic name and courses data for each topic_Report.rdl" />
     <Report Include="show students data Report.rdl" />
+    <Report Include="sum of quantity per productID and SalesManName_Report.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
